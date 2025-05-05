@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/ai-background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+form {
+    width: 80%;
+    background-color: rgb(42, 80, 185);
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.subscribe-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #63B4C9;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+}
